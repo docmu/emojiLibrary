@@ -6,3 +6,5 @@ This way, a new Execution Context for Emoji.js is pushed onto the Execution Stac
 because no variables are going to 'get out' of it.
 
 # Demo
+![alt text](https://github.com/docmu/emojiLibrary/blob/master/screenshots/Screenshot%20(123).png)
+![alt text](https://github.com/docmu/emojiLibrary/blob/master/screenshots/Screenshot%20(122).png)
