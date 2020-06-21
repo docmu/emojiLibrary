@@ -1,4 +1,5 @@
-//instantiating a 'new' object (the architecture allows not having to use the 'new' keyword)
+//instantiating a 'new' object
+//(the architecture allows not having to use the 'new' keyword)
 var s = E$("shrug");
 var a = E$("acid");
 var k = E$("kiss");
